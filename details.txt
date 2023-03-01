@@ -1,1 +1,29 @@
-git 
+git config --global user.name
+git config --global user.email
+
+// to initialis the git 
+git init 
+git status 
+git commit -m "initial commit" 
+//nothing to commit 
+
+//create the new  file 
+
+git status 
+//new files created 
+
+git add -A (adding all the files to the git repos)
+
+git commit -m "added new file"
+
+git status   // nothing to commit 
+
+git checkout -f // can restore the last modified version of the file from repos 
+
+git log 
+
+git log -p -2 // to display only the last 2 commit 
+
+
+
+
