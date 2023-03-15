@@ -37,7 +37,7 @@ git remote add origin "ssh" of  the repos
 git push -u origin master 
 
 hye this is the git command 
-
+and i am raj to do this
 
 
 
