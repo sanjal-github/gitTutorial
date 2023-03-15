@@ -111,6 +111,13 @@ ex
 3) git checkout shilsha // move to shilsha branch from master 
   switched to branch shilsha 
 4) merging the branch from the master branch 
+to merge shilsha branch from the master branch we have 
+
+i) first move to the master branch 
+    git checkout master 
+ii) and then run the git merge command 
+     git merge shilsha
+      
 
  
 
