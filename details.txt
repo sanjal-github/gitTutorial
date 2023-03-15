@@ -24,6 +24,22 @@ git log
 
 git log -p -2 // to display only the last 2 commit 
 
+git diff // compares the current changes on the file from the git repos 
+ display the changes 
+
+git diff -- staged //compares from last changes to current staged
+
+git checkout -f 
+
+----------------------------------------------------------------
+git remote add origin "ssh" of  the repos
+
+git push -u origin master 
+
+hye this is the git command 
+
+
+
 
 
 
