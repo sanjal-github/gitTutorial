@@ -27,10 +27,15 @@ git log -p -2 // to display only the last 2 commit
 git diff // compares the current changes on the file from the git repos 
  display the changes 
 
-git diff -- staged //compares from last changes to current staged
+git diff -- staged //compares from current staged changes to current commit 
+it reflects the changes from the commit to current changes but before git add . 
 
-git checkout -f 
 
+git checkout -f
+
+git commit -a -m // it is the combination of both "git add ." and "git commit -m" command
+means using this command we can staged the file as well commits 
+means it reflects the changes from  the last commit to after present git add .
 ----------------------------------------------------------------
 git remote add origin "ssh" of  the repos
 
@@ -38,7 +43,15 @@ git push -u origin master
 
 hye this is the git command 
 and i am raj to do this
+hye to all
+----------------------------------------------------------------------------
 
+Removing the file from the current directory as well as from the staging area 
+
+git rm  // remove the file from both the local disk as well from the git staged area 
+
+git rm --cached // remove the file from only the git staged area 
+  
 
 
 
