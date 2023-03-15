@@ -52,6 +52,14 @@ git rm  // remove the file from both the local disk as well from the git staged 
 
 git rm --cached // remove the file from only the git staged area 
   
+----------------------------------------------------------------------------------
+
+the short version of the git status 
+means 
+
+git status -s 
+
+This command gives the details in the short version 
 
 
 
