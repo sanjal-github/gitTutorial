@@ -82,6 +82,37 @@ if waana to ignore the single file then specify the full path of the file
 	if need to ignore the folder in the gitignore file 
 	then write folder_name/ in the gitignore file 
 
+--------------------------------------------------------------------------------------------
+
+branches
+
+1) git branch
+returns the current branch 
+
+for ex 
+  git branch 
+   * master 
+to create the new branch we have
+ git branch <branch_name>
+ex 
+2)  git branch shilsha
+ 
+if command 
+   git branch 
+  o/p
+     * master 
+	shilsha
+ 
+we are now currently active in the master branch (*) to move to another branch we have command 
+git checkout <branch_name>
+ex 
+3) git checkout shilsha // move to shilsha branch from master 
+  switched to branch shilsha 
+ 
+
+
+
+
 
 	 
 
