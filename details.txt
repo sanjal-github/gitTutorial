@@ -117,7 +117,10 @@ ii) and then run the git merge command
      git merge shilsha
       
 
- 
+3) git checkout -b nodejs 
+//create the new branch name nodejs and move to it 
+ directly to it 
+
 
 
 
