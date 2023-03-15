@@ -108,7 +108,8 @@ git checkout <branch_name>
 ex 
 3) git checkout shilsha // move to shilsha branch from master 
   switched to branch shilsha 
-4) merging the branch 
+4) merging the branch from the master branch 
+
  
 
 
